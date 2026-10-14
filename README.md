@@ -311,6 +311,9 @@ I use algorithmic problems to practice breaking complex tasks into smaller steps
 
 ---
 
+
+---
+
 ## 09 / Contribution Snake
 
 <div align="center">
@@ -318,9 +321,19 @@ I use algorithmic problems to practice breaking complex tasks into smaller steps
 <p>A little animation for the commits that keep the journey moving.</p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MukulSha-afk/MukulSha-afk/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MukulSha-afk/MukulSha-afk/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/MukulSha-afk/MukulSha-afk/output/github-snake.svg" width="100%" alt="Animated GitHub contribution snake" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MukulSha-afk/MukulSha-afk/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MukulSha-afk/MukulSha-afk/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/MukulSha-afk/MukulSha-afk/output/github-snake.svg"
+    alt="Mukul's GitHub contribution snake animation"
+    width="100%"
+  />
 </picture>
 
 </div>
